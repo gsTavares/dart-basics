@@ -4,7 +4,7 @@ void main() {
    // calling a set method...
   gustavo.money = 500;
 
-  // calling a get method
+  // calling a get method (this sintax is awesome btw 0_0)
   print(gustavo.money);
 
 }
